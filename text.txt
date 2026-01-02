@@ -1,0 +1,7 @@
+Crazylab
+
+com.CrazyLabcorp.CrazyLaboratoriy
+
+password: crazylab
+alais: crazylab
+alias-password: crazylab
