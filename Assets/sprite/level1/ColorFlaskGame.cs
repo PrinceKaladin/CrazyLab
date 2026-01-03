@@ -35,10 +35,10 @@ public class ColorFlaskGame : MonoBehaviour
         for (int i = 0; i < 3; i++)
         {
             flasks[i] = new GameObject("Flask" + i);
-            flasks[i].transform.position = new Vector3(-2f + i * 2f, 0, 0);
+            flasks[i].transform.position = new Vector3(-1.2f + i * 1.2f, 0, 0);
 
             // ← Вот это главное изменение
-            flasks[i].transform.localScale = new Vector3(0.4f, 0.4f, 1f);  // в 2 раза меньше
+            flasks[i].transform.localScale = new Vector3(0.3f, 0.3f, 1f);  // в 2 раза меньше
 
             SpriteRenderer sr = flasks[i].AddComponent<SpriteRenderer>();
             BoxCollider2D col = flasks[i].AddComponent<BoxCollider2D>();

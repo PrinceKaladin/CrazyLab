@@ -5,3 +5,6 @@ com.CrazyLabcorp.CrazyLaboratoriy
 password: crazylab
 alais: crazylab
 alias-password: crazylab
+
+https://docs.google.com/document/d/1YTgYPhGwIkyuDLaI9iI_lHquoHJO-mZEupME9i3ZaUQ/edit?usp=sharing
+https://www.figma.com/design/Aqz8IAQRwYOBLlC97SZjAI/Crazy-Lab?node-id=4-116&t=6z3Oe0L2jFJrERQx-0
